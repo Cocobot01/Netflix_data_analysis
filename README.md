@@ -65,8 +65,8 @@ Built with `Seaborn` and `Matplotlib`:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/Cocobot01/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Cocobot01/Netflix_data_analysis.git
+cd Netflix_data_analysis
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook Netflex_dataanalysis.ipynb
 ```
